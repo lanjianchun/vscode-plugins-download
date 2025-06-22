@@ -35,7 +35,7 @@
    - [Edge 应用商店安装 Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 2. **安装本脚本**:
 
-   - 点击[此处](https://github.com/your-username/your-repo/raw/main/vscode-plugins-download.user.js)安装脚本。 `<!-- 请替换为您的原始脚本链接 -->`
+   - 安装脚本。 复制vscode-plugins-download.user.js中的内容保存
    - 您的脚本管理器将自动打开并请求确认。点击 `安装` 即可。
 
 ## 如何使用

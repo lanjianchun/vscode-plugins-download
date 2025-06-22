@@ -28,16 +28,15 @@ This is a Tampermonkey userscript that adds a convenient download button to Visu
 
 To use this script, you need a user script manager. [Tampermonkey](https://www.tampermonkey.net/) is recommended.
 
-1.  **Install a User Script Manager**:
+1. **Install a User Script Manager**:
 
-    - [Install Tampermonkey from the Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-    - [Install Tampermonkey from the Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-    - [Install Tampermonkey from the Microsoft Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
+   - [Install Tampermonkey from the Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   - [Install Tampermonkey from the Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+   - [Install Tampermonkey from the Microsoft Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
+2. **Install this Script**:
 
-2.  **Install this Script**:
-
-    - Click [here](https://github.com/your-username/your-repo/raw/main/vscode-plugins-download.user.js) to install the script. `<!-- Please replace with your raw script link -->`
-    - Your script manager will automatically open and ask for confirmation. Click `Install`.
+   - install the script. copy code in 'vscode-plugins-download.user.js'
+   - Your script manager will automatically open and ask for confirmation. Click `Install`.
 
 ## How to Use
 
